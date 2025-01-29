@@ -1,1 +1,1 @@
-# spring-boot-config-server-repo1
+This repository basically stores the content related to Employee and Company microservices.
